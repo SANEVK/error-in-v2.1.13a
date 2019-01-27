@@ -1,0 +1,2 @@
+# error-in-v2.1.13a
+sir, thanks for a prompt action &amp; releasing v2.1.13a. but O. S. WINDOWS 7 ULTIMATE does not support this version also. programme gets terminated abruptly without any error message. whereas all previous versions from 2.1.8 to v2.1.11a all were working fine on same o. s.. also google chrome gives warning message after downloading. this also never happened before. please suggest solution.
